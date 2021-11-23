@@ -1,0 +1,69 @@
+body {
+  background-color: #e0d6f5;
+  color: black;
+  font-family: Georgia, serif;
+}
+h1 {
+  color: #6f94dc;
+  font-family: "Gill Sans", sans-serif;
+  font-size: 25px;
+}
+h2 {
+  font-weight: lighter;
+  font-size: 20px
+}
+p {
+  font-family: "Times new Roman";
+  font-size: 16px;
+}
+mark {
+  background-color: #adebad;
+}
+li {
+  font-family: monospace;
+  font-size: 14.5px;
+}
+#bold-h2 {
+  color: #6f94dc;
+  font-weight: bold;
+}
+.launched-html {
+  width: 500px;
+  length: 500px;
+}
+.ruleset-demo {
+  width: 300px;
+  length: 400px;
+}
+h4 {
+  color: #ff4d94;
+}
+.silver-background {
+background-color: silver;
+height: 125px;
+}
+div{
+  background-color: silver;
+  font-style: oblique;
+  font-size: 14px;
+}
+.my-test-page {
+  width: 400px;
+  length: 400px;
+  margin: auto;
+}
+.boxes-layout {
+  width: 400px;
+  length: 400px;
+  margin: auto;
+}
+.box-model-visual {
+  width: 400px;
+  length: 400px;
+  margin: auto;
+}
+.final-test-page {
+  width: 400px;
+  length: 400px;
+  margin: auto;
+}
